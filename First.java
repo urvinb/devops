@@ -1,5 +1,5 @@
 class First {
     public static void main(String[] args) {
-        System.out.println("First class"); 
+        System.out.println("This is First class"); 
     }
 }
