@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="2.526" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/urvi/Desktop/devops/hello/target/test-classes:/home/urvi/Desktop/devops/hello/target/classes:/home/urvi/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/urvi/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/urvi/.m2/repository/org/testng/testng/7.3.0/testng-7.3.0.jar:/home/urvi/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/home/urvi/.m2/repository/org/apache/ant/ant/1.10.3/ant-1.10.3.jar:/home/urvi/.m2/repository/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3.jar:/home/urvi/.m2/repository/com/google/inject/guice/4.2.2/guice-4.2.2-no_aop.jar:/home/urvi/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/home/urvi/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/home/urvi/.m2/repository/com/google/guava/guava/25.1-android/guava-25.1-android.jar:/home/urvi/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/urvi/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/home/urvi/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/home/urvi/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/home/urvi/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/home/urvi/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar:"/>
+    <property name="java.vm.vendor" value="Ubuntu"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://ubuntu.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/urvi/Desktop/devops/hello/target/surefire/surefirebooter11125347527572577573.jar /home/urvi/Desktop/devops/hello/target/surefire 2021-02-17T11-25-00_739-jvmRun1 surefire10485705141614764559tmp surefire_011575694396081138543tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/urvi/Desktop/devops/hello/target/test-classes:/home/urvi/Desktop/devops/hello/target/classes:/home/urvi/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/urvi/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/urvi/.m2/repository/org/testng/testng/7.3.0/testng-7.3.0.jar:/home/urvi/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/home/urvi/.m2/repository/org/apache/ant/ant/1.10.3/ant-1.10.3.jar:/home/urvi/.m2/repository/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3.jar:/home/urvi/.m2/repository/com/google/inject/guice/4.2.2/guice-4.2.2-no_aop.jar:/home/urvi/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/home/urvi/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/home/urvi/.m2/repository/com/google/guava/guava/25.1-android/guava-25.1-android.jar:/home/urvi/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/urvi/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/home/urvi/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/home/urvi/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/home/urvi/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/home/urvi/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/urvi"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/urvi/Desktop/devops/hello"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/urvi/Desktop/devops/hello/target/surefire/surefirebooter11125347527572577573.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.10+9-Ubuntu-0ubuntu1.20.04"/>
+    <property name="user.name" value="urvi"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.8.0-43-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/urvi/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="11.0.10"/>
+    <property name="user.dir" value="/home/urvi/Desktop/devops/hello"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Ubuntu"/>
+    <property name="java.vm.version" value="11.0.10+9-Ubuntu-0ubuntu1.20.04"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testhello" classname="hello.Testhello" time="0.016"/>
+  <testcase name="shouldAnswerWithTrue on shouldAnswerWithTrue(hello.AppTest)" classname="hello.AppTest" time="0.001"/>
+</testsuite>
